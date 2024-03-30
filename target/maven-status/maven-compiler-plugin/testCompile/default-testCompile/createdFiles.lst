@@ -1,0 +1,4 @@
+testCases\TC001_ProfileUpdate.class
+testBase\BaseClass.class
+pageObjects\LoginPage.class
+pageObjects\HomePage.class

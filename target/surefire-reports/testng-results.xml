@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-30T12:08:31 IST" name="Suite" finished-at="2024-03-30T12:09:19 IST" duration-ms="47649">
+    <groups>
+    </groups>
+    <test started-at="2024-03-30T12:08:31 IST" name="Test" finished-at="2024-03-30T12:09:19 IST" duration-ms="47649">
+      <class name="testCases.TC001_ProfileUpdate">
+        <test-method is-config="true" signature="applicationSetUp()[pri:0, instance:testCases.TC001_ProfileUpdate@7193666c]" started-at="2024-03-30T12:08:31 IST" name="applicationSetUp" finished-at="2024-03-30T12:08:56 IST" duration-ms="25308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationSetUp -->
+        <test-method signature="loginToApplication()[pri:0, instance:testCases.TC001_ProfileUpdate@7193666c]" started-at="2024-03-30T12:08:56 IST" name="loginToApplication" finished-at="2024-03-30T12:09:19 IST" duration-ms="22300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+      </class> <!-- testCases.TC001_ProfileUpdate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
